@@ -1,3 +1,12 @@
+# Important Notice
+
+The code in this repository is now hosted and maintained by Dynamic Intelligence Lab, a research group at Brown University:
+
+[https://github.com/dynamic-intelligence-lab/parallel_lyapunov_exponents](https://github.com/dynamic-intelligence-lab/parallel_lyapunov_exponents)
+
+Please use that repository. The code here is no longer actively mantained.
+
+
 # parallel_lyapunov_exponents
 
 Reference implementation of our algorithm for estimating Lyapunov exponents in parallel, via a prefix scan, _orders-of-magnitude faster than with previous methods_, for PyTorch. A quick example is worth a thousand words:
